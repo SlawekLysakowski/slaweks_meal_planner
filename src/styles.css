@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+
+
+/*#0ecee6 blue*/
+/*#dce7cf light green*/
+/*#d75418 orange*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+html {
+  height: 100%;
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  /*background-color: #FFE5D9;*/
+  background-color: #dce7cf;
+;
+  min-height: 100vh;
+}
+
+
